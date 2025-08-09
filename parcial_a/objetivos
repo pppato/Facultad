@@ -1,1 +1,7 @@
 polimorfismo, herencia, memoria dinamica, sobrecarga de operadores, diseño orientado a objetos
+
+Una empresa la cual se encarga de ofrecer servicios de limpieza, le solicita como programador, realizar un Software que permita el cobro mensual, sobre su actual cartera de Clientes. Dichos servicios son provistos para un segmento de viviendas que poseen una tipología tipo media familiar. Los formatos de cálculo de la facturación son los siguientes: 
+● Mediante horas de servicio: se cobra un monto fijo por la cantidad de horas semanales empleadas en el servicio. 
+● Mensual: se cobra un abono fijo por mes. 
+● A solicitud del cliente: se cobra un monto por servicio. 
+Como parte de una promoción vigente, existe una opción PROMO, la cual a partir del precio de las 3 posibles tarifas anteriores, se cobre la más barata con un 15% de recargo. El software debe permitir cargar los valores iniciales, monto por una hora, monto fijo mensual y monto por servicio. Y luego registrar los servicios que están formados por : número de cliente, tipo de servicio y según el servicio, las horas utilizadas o las solicitudes de servicio. 
