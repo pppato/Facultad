@@ -1,0 +1,7 @@
+C:/Users/p-dem/OneDrive/Documents/QT/obrasocial_parcial/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/obrasocial_parcial.dir
+C:/Users/p-dem/OneDrive/Documents/QT/obrasocial_parcial/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/p-dem/OneDrive/Documents/QT/obrasocial_parcial/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/p-dem/OneDrive/Documents/QT/obrasocial_parcial/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/p-dem/OneDrive/Documents/QT/obrasocial_parcial/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/p-dem/OneDrive/Documents/QT/obrasocial_parcial/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/p-dem/OneDrive/Documents/QT/obrasocial_parcial/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir

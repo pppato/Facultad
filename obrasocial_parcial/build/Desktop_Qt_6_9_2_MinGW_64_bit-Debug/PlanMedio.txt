@@ -1,0 +1,4 @@
+Consulta médica general
+Análisis de sangre completo
+Radiografía
+Electrocardiograma

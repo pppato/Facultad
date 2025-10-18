@@ -1,0 +1,5 @@
+Consulta médica general
+Análisis de sangre completo
+Resonancia magnética
+Cirugía menor
+Internación completa
