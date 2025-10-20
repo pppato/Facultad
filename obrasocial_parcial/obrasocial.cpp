@@ -16,39 +16,6 @@ void ObraSocial::CrearPlanes()
     this->Planes['p'] = PlanPremium;
 }
 
-/*void ObraSocial::GenerarUsuariosBinario()
-{
-    std::ofstream archi("usuarios.dat", std::ios::binary | std::ios::trunc);
-    if (!archi.is_open()) {
-        std::cout << "No se pudo abrir el archivo para escritura.\n";
-        return;
-    }
-
-    srand(time(nullptr));
-
-
-    std::vector<std::string> nombres = {"Juan", "Ana", "Carlos", "Lucia", "Pedro", "Sofia", "Miguel", "Laura", "Diego", "Valentina"};
-    std::vector<std::string> apellidos = {"Perez", "Gomez", "Lopez", "Martinez", "Rodriguez", "Fernandez", "Garcia", "Romero", "Diaz", "Torres"};
-    std::vector<char> tipos = {'b', 'm', 'p'};
-
-    for (int i = 0; i < 10; ++i) {
-        DatosUsuarios du;
-
-        std::string nombreCompleto = nombres[rand() % nombres.size()] + std::string(" ") + apellidos[rand() % apellidos.size()];
-        strncpy(du.nombre, nombreCompleto.c_str(), sizeof(du.nombre));
-        du.nombre[sizeof(du.nombre) - 1] = '\0';
-
-        du.id = 1000 + rand() % 9000;
-        du.cantidad = 1 + rand() % 20;
-        du.tipo = tipos[rand() % tipos.size()];
-
-        archi.write(reinterpret_cast<char*>(&du), sizeof(DatosUsuarios));
-    }
-
-    archi.close();
-    std::cout << "Archivo 'usuarios.dat' generado correctamente.\n";
-}*/
-
 ObraSocial::ObraSocial() {
     this->CrearPlanes();
     this->leerUsuarios();
