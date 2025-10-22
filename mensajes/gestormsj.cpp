@@ -13,6 +13,7 @@ void GestorMsj::leerMail()
         var->setStruct(m);
         ms.push_back(var);
     }
+    archi.close();
 }
 
 void GestorMsj::leerTxt()
@@ -24,6 +25,7 @@ void GestorMsj::leerTxt()
         var->setStruct(t);
         ms.push_back(var);
     }
+    archi.close();
 }
 
 void GestorMsj::escribir()
