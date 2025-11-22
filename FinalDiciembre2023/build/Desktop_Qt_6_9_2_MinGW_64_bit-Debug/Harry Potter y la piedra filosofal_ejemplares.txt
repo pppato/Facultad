@@ -1,0 +1,5 @@
+isbn: 987 | editorial: SALAMANDRA |  año: 2010
+isbn: 987 | editorial: SALAMANDRA |  año: 2010
+isbn: 987 | editorial: SALAMANDRA |  año: 2010
+isbn: 999 | editorial: COQUI |  año: 2001
+isbn: 963 | editorial: OROVERDE |  año: 1997
